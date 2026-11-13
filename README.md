@@ -50,3 +50,7 @@ Then use `"host": "my-server"` in `servers.json`.
 ## Notes
 - sshfs mounts don't follow network changes: disconnect and reconnect.
 - Nothing personal is stored in this repo; hosts live in your own `~/.ssh/config` and `servers.json`.
+
+## License
+
+Public domain ([Unlicense](LICENSE)): do whatever you want with it.

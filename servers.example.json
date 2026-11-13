@@ -1,0 +1,4 @@
+[
+  { "name": "my-vps", "host": "user@203.0.113.10", "path": "/var/www" },
+  { "name": "home-server", "host": "home-server" }
+]
